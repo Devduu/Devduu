@@ -25,7 +25,7 @@
 
 ## 🌍 Idiomas:
 
-- 🇧🇷 Português: Nativo  
+🇧🇷 **Português**: Nativo 
 
 ---
 
