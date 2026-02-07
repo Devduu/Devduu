@@ -1,12 +1,16 @@
 <h2 align="center">Olá, meu nome é Eduardo</h2>
 
-<h4 align="center">💻 Estudante de Engenharia de Software</h4>
+<div align="center">
+💻 <strong>Estudante de Engenharia de Software</strong>
+</div>
+
+<br/>
 
 <div align="center">
 📍 Brasil • 🎉 21 anos • 📚 Aprendizado contínuo e desenvolvimento constante
 </div>
 
----
+<hr/>
 
 ## 🛠️ Idiomas e ferramentas:
 
@@ -21,13 +25,13 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
----
+<hr/>
 
 ## 🌍 Idiomas:
 
-🇧🇷 **Português**: Nativo 
+🇧🇷 **Português**: Nativo
 
----
+<hr/>
 
 ## 📬 Conecte-se comigo:
 
