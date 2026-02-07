@@ -1,10 +1,10 @@
-<h1 align="center">Olá, meu nome é Eduardo</h1>
+<h2 align="center">Olá, meu nome é Eduardo</h2>
 
-<h3 align="center">💻 Estudante de Engenharia de Software</h3>
+<h4 align="center">💻 Estudante de Engenharia de Software</h4>
 
-<p align="center">
+<div align="center">
 📍 Brasil • 🎉 21 anos • 📚 Aprendizado contínuo e desenvolvimento constante
-</p>
+</div>
 
 ---
 
