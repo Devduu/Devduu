@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋, meu nome é Eduardo Moraes</h2>
+<h2 align="center">Olá 👋, meu nome é Eduardo Delorenzo Moraes</h2>
 <h4 align="center">💻 Estudante de Engenharia de Software na FIAP</h4>
 <h4 align="center">📍 Barueri, Brasil | 🎯 Desenvolvimento full stack | 💼 Buscando estágio</h4>
 <p align="center">
